@@ -1,0 +1,24 @@
+.image {
+    width: 33%;
+    height: 400px
+    overflow: hidden;
+    background-color: aqua;
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+
+img {
+    display: block;
+    height: 100%;
+}
+
+.texto{
+    position: absolute;
+    bottom: 0;
+    font-size: 2em;
+    padding: 1em;
+    margin: 0;
+    margin: 0;
+    bottom: 0;
+}
